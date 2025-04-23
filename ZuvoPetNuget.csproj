@@ -7,14 +7,14 @@
     <Title>ZuvoPetNuget</Title>
     <Authors>Mario Jiménez Marset</Authors>
     <Description>Nuget con los modelos de la aplicación 'ZuvoPet'.</Description>
-    <PackageIcon>perro.jpg</PackageIcon>
+    <PackageIcon>vicente_calderon.jpg</PackageIcon>
     <PackageTags>zuvopet</PackageTags>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>1.0.6</Version>
+    <Version>1.0.7</Version>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\..\..\..\Downloads\perro.jpg">
+    <None Include="..\..\..\..\Pictures\Fondo_Bloqueo\vicente_calderon.jpg">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
