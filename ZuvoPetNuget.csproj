@@ -10,7 +10,7 @@
     <PackageIcon>vicente_calderon.jpg</PackageIcon>
     <PackageTags>zuvopet</PackageTags>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>1.0.7</Version>
+    <Version>1.0.10</Version>
   </PropertyGroup>
 
   <ItemGroup>
